@@ -1,7 +1,8 @@
-#**Hotel Management System**
+# **Hotel Management System**
+
 This project is a Hotel Management System application built using Python with the Tkinter GUI toolkit and MySQL database for data storage. It provides basic functionalities for hotel check-in, check-out, guest data display, and history management, making it a useful tool for managing a small hotel.
 
-**Features**
+## **Features**
 Room Availability Check: View available rooms in the hotel.
 Guest Check-In: Check in guests by entering their details and assigning an available room.
 Guest Check-Out: Check out guests and update the database accordingly.
@@ -10,7 +11,7 @@ Guest History: View a record of all guests who have checked out.
 Database
 The project uses MySQL as the database to store guest data. You will need to create a MySQL database and tables as follows:
 
-**Database Setup**
+## **Database Setup**
 Create the Database: Run the following SQL command to create the database.
 
 sql
